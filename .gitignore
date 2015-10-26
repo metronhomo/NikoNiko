@@ -1,0 +1,13 @@
+*.csv
+*.xlsx
+*.sav
+*.rds
+*.RDS
+*.Rhistory
+*.RHistory
+*.DS_Store
+*.RData
+*.Rdata
+*.rdata
+Shiny/rsconnect/*
+Shiny/data/*
